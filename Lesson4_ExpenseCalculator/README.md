@@ -4,19 +4,20 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(February 10, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Anais Bergues)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this assignment we learned how to apply javascript code to create 
+a functional calculator on a webpage.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://anaisbergues.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to make a functional application on a webpage that takes a number and coverts
+   it into a percentage.
+2. How to declare information into a variable and then convert it.
+3. How to clear a users inputs to restart program.
